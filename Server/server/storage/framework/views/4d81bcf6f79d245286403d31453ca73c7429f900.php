@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\green\server\resources\views/pages/content/edit.blade.php ENDPATH**/ ?>
